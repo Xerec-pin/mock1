@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(221, 220, 220);
+}
+
+
+img {
+    width: 600px;
+    height: 500px;
+    border-color: gray;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+
+}
+
+
+
+div {
+    background-color: rgb(158, 181, 181);
+    margin: 250px 250px 250px 250px;
+    border-radius: 30px;
+    width: 600px;
+    height: 750px ;
+
+    position: relative;
+    top: 80px;
+    left: 300px;
+    border: 20px thin black;
+}
